@@ -1,2 +1,4 @@
-# Artificially-Intelligent-Pacman
-Application of Artificial Intelligence algorithms on a pacman game
+# Artificially Intelligent Pacman
+
+An alternate implementation of The Pacman Projects by the University of California, Berkeley
+
